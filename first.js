@@ -1,1 +1,5 @@
-console.log("hola mundo");
+async function main () {
+    console.log("hola from main");
+}
+
+main ();

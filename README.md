@@ -1,12 +1,11 @@
-# 📂 Portafolio de Desarrollo Web y Mobile
+# 📂 UT1 - Desarrollo Web y Mobile
 
-Bienvenido a mi portafolio de la materia **Desarrollo Web y Mobile**.  
-Aquí encontrarás ejercicios, materiales de estudio y herramientas que utilicé para aprender y mejorar mis habilidades en el desarrollo web y aplicaciones móviles.
+Bienvenido a mi repo de la **Unidad 1** de Desarrollo Web y Mobile.  
+Acá voy subiendo ejercicios, apuntes y cosas que usé para estudiar y entender mejor los temas de esta primera parte del curso.
 
-## 📌 Sobre este repositorio
-Este repositorio contiene:
-- 📝 **Ejercicios prácticos** desarrollados en clase.
-- 📚 **Materiales de referencia** utilizados para estudiar.
-- 🛠️ **Herramientas y recursos** útiles para el desarrollo web y mobile.
+## 📌 Qué hay en esta carpeta
 
-## 📂 Estructura del repositorio
+- 📝 Ejercicios básicos que hicimos en clase.  
+- 📚 Apuntes y materiales que me sirvieron para estudiar.  
+- 🛠️ Algunas herramientas y recursos que fui usando.
+

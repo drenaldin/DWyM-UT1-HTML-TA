@@ -1,11 +1,20 @@
-# 📂 UT1 - Desarrollo Web y Mobile
+# 📘 UT1 - Desarrollo Web y Mobile
 
-Bienvenido a mi repo de la **Unidad 1** de Desarrollo Web y Mobile.  
-Acá voy subiendo ejercicios, apuntes y cosas que usé para estudiar y entender mejor los temas de esta primera parte del curso.
+Este es mi repositorio con los trabajos prácticos de la **Unidad 1** de Desarrollo Web y Mobile.  
+Durante esta unidad trabajé los conceptos básicos de HTML y empecé a familiarizarme con la estructura de las páginas web, el uso de formularios, enlaces, imágenes, videos y otras funciones básicas.
 
-## 📌 Qué hay en esta carpeta
+---
 
-- 📝 Ejercicios básicos que hicimos en clase.  
-- 📚 Apuntes y materiales que me sirvieron para estudiar.  
-- 🛠️ Algunas herramientas y recursos que fui usando.
+## 📌 Trabajos prácticos incluidos
+
+- TA1 - Documento HTML básico  
+- TA2 - Listas ordenadas y desordenadas  
+- TA3 - Insertar una imagen  
+- TA4 - Hipervínculos  
+- TA5 - Formulario de registro  
+- TA6 - Encuesta con selección múltiple y botones de radio  
+- TA7 - Video local  
+- TA8 - Enlaces a redes sociales  
+- TA9 - Video embebido desde YouTube  
+
 
